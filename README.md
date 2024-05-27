@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SugisivamArjunasamy
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on pair programming
 - 📫 How to reach me sugisivamarjunasamy2004@gmail.com
 
